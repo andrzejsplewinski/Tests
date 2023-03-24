@@ -2,7 +2,7 @@
 1
 
 # Opis scenariusza testowego
-Ten test sprawdza funkcjonalność wysłania formularza oraz rejestracji do Newslettera
+Ten test sprawdza funkcjonalność wysłania rejestracji do Newslettera
 
 # Przypadki testowe
 1. Sprawdzenie zachowania aplikacji gdy podano prawidłowe dane imię i e-mail
