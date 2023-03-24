@@ -5,13 +5,13 @@
 Ten test sprawdza funkcjonalność wysłania rejestracji do Newslettera
 
 # Przypadki testowe
-1. Sprawdzenie zachowania aplikacji gdy podano prawidłowe dane imię i e-mail
-2. Sprawdzenie zachowania aplikacji gdy podano nieprawidłowe dane imię i e-mail
-3. Sprawdzenie zachowania aplikacji gdy podano prawidłowe imię oraz nieprawidłowy e-mail
-4. Sprawdzenie zachowania aplikacji gdy podano nieprawidłowe imię oraz prawidłowy e-mail
-5. Sprawdzenie zachowania aplikacji gdy pola imię i e-mail pozostawiono puste
-6. Sprawdzenie zachowania aplikacji gdy pole e-mail pozostawiono puste natomiast pole imię wypełniono poprawnymi danymi
-7. Sprawdzenie zachowania aplikacji gdy pole imię pozostawiono puste natomiast pole e-mail wypełniono poprawnymi danymi
+1. Sprawdź zachowanie aplikacji po wprowadzeniu prawidłowych danych w pola imię i e-mail
+2. Sprawdź zachowanie aplikacji po wprowadzeniu nieprawidłowych danych w pola imię i e-mail
+3. Sprawdź zachowanie aplikacji po wprowadzeniu prawidłowych danych do pola imię oraz nieprawidłowych do pola e-mail
+4. Sprawdź zachowanie aplikacji po wprowadzeniu nieprawidłowych danych do pola imię oraz prawidłowych do pola e-mail
+5. Sprawdź zachowanie aplikacji gdy pola imię i e-mail pozostawiono puste
+6. Sprawdź zachowanie aplikacji gdy pole e-mail pozostawiono puste natomiast do pola imię wprowadzono poprawne dane
+7. Sprawdź zachowanie aplikacji gdy pole imię pozostawiono puste natomiast  do pola e-mail wprowadzono poprawne dane
 
 
 
