@@ -1,0 +1,20 @@
+# Scenariusz testowy		
+
+1
+
+# Opis scenariusza testowego
+
+Sprawdzenie funkcjonalności wysłania formularza na stronie Newsletter.
+
+# Przypadki testowe
+
+1.	Check system behavior when valid email id and password is entered. 
+2.	Check system behavior when invalid email id and valid password is entered. 
+3.	Check system behavior when valid email id and invalid password is entered. 
+4.	Check system behavior when invalid email id and invalid password is entered. 
+5.	Check system behavior when email id and password are left blank and Sign in entered. 
+6.	Check Forgot your password is working as expected
+7.	Check system behavior when valid/invalid phone number and password is entered. 
+8.	Check system behavior when ""Keep me signed"" is checked"
+
+
