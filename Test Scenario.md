@@ -18,3 +18,4 @@ Sprawdzenie funkcjonalności wysłania formularza na stronie Newsletter.
 8.	Check system behavior when ""Keep me signed"" is checked"
 
 
+
